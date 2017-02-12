@@ -1,0 +1,24 @@
+{
+  "name": "geofire-example",
+  "version": "1.0.0",
+  "description": "Example project showing how to make use of Geofire for Firebase in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SyntonicApps/geofire-example.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SyntonicApps/geofire-example/issues"
+  },
+  "homepage": "https://github.com/SyntonicApps/geofire-example#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "firebase": "^3.6.9",
+    "geofire": "^4.1.2"
+  }
+}
